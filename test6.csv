@@ -1,0 +1,12 @@
+100,Current stock price1
+120,Current stock price2
+300,Barrier
+220,Strike
+0.01,Risk free rate
+1,Option expiration
+0.3,Stock volatility1
+0.2,Stock volatility2
+0.5,Correlation
+1,Method selection - 1: MC; 2: FD; 3: Tree
+1000,Number of time step used in both Monte Carlo and finite difference
+20000,Number of paths for Monte Carlo
